@@ -84,7 +84,6 @@ ARCH family models are essential when time series exhibit specific characteristi
 
 ![image](https://github.com/user-attachments/assets/86b55ac6-d6b1-440b-89a4-5daf34acfb7a)
 
-
 **Stationarity Assessment:**
 - **Original Series**: ADF p-value = 0.5707 (non-stationary)
 - **First Difference**: ADF p-value = 0.0627 (marginally stationary)
@@ -134,7 +133,12 @@ ARCH family models are essential when time series exhibit specific characteristi
 
 ### **ARCH/GARCH Analysis for DJIA Returns**
 
-**[INSERT ACF/PACF PLOTS FOR RETURNS AND SQUARED RETURNS HERE]**
+
+![image](https://github.com/user-attachments/assets/3f21c733-c511-4563-ada1-a0973126b550)
+
+
+![image](https://github.com/user-attachments/assets/7c83a620-b57e-446d-8603-d7abc142ef53)
+
 
 **ARCH Effects Detection:**
 - **Returns ACF**: Minimal significant autocorrelation (few lags significant)
