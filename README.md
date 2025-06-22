@@ -1,5 +1,5 @@
 ## ARCH/GARCH Modeling & Volatility Analysis
-*FIN 666 - Advanced Quantitative Methods and Machine Learning in Finance*
+*Advanced Quantitative Methods and Machine Learning in Finance*
 
 ## **Business Question**
 How can financial analysts and risk managers effectively model time-varying volatility in financial markets using ARCH/GARCH frameworks to enhance risk assessment, portfolio optimization, and derivative pricing for both retail sales forecasting and equity index volatility prediction?
